@@ -1,0 +1,11 @@
+{
+  "name": "node-starter",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "index": "node src/index.js"
+  },
+  "devDependencies": {
+    "jest": "~29.5.0"
+  }
+}
